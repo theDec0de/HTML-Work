@@ -1,0 +1,22 @@
+body {
+    background-color: #5ccccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #006363;
+    color: white;
+}
+h1 {
+    line-height: 70px;
+    text-align: center;
+}
+h2 {
+    font-variant: small-caps;
+}
+article {
+    min-height: 260px;
+    background-color: #009999;
+    color: white;
+    font-size: 16pt;
+    clear: both;
+}
