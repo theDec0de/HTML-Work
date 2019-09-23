@@ -1,0 +1,54 @@
+body {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 15px;
+    background-image: url(stars.jpg);
+}
+header {
+    width: 100%;
+    height: 250px;
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+}
+nav {
+    width: 100%;
+    background-color: #444444;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 14pt;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #dedede;
+}
+section {
+    width: 100%;
+    background-color: #2a4480;
+}
+article {
+    width: 65%;
+    height: 100%;
+    float: left;
+}
+aside {
+    background-color: #6c8cd5;
+    float: right;
+    width: 20%;
+    height: 100%;
+}
+figcaption {
+    color: black;
+    text-align: center;
+    background-color: #cdcdcd;
+}
+footer {
+    width: 100%;
+    background-color: #6c8cd5;
+    clear: both;
+    text-align: center;
+}
