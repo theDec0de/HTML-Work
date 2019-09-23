@@ -1,7 +1,7 @@
 # HTML-Work
 labs based on a class
 
-#License Addendum:
+# License Addendum:
 DO NOT CHEAT. Plagiarism will not be tolerated, especially in school! I take no responsibility for any misuse of this code - use at your own risk! 
 
 # MIT License
